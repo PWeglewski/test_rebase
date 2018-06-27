@@ -2,3 +2,6 @@ Created file in branch master
 
 first change from branch first-feature
 second change from branch first-feature
+
+first-change from second-feature branch
+second-change from second-feature branch
